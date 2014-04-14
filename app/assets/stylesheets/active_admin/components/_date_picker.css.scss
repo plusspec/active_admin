@@ -3,6 +3,8 @@
 //= depend_on_asset "active_admin/datepicker/datepicker-prev-link-icon.png"
 //= depend_on_asset "active_admin/datepicker/datepicker-next-link-icon.png"
 // -------------------------------------- Date Picker
+@import "active_admin/mixins";
+
 .ui-datepicker {
   background: #fff;
   -webkit-background-clip: padding-box;
